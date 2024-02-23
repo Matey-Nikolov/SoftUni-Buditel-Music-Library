@@ -10,7 +10,10 @@
 Music Library application includes functionality for all users:
 - home - albums catalog - this is page where you view all albums.
 - login.
-- Dashboard.
+- ![image](https://github.com/Matey-Nikolov/SoftUni-Buditel-Music-Library/assets/80168510/e12fba0a-caa3-451c-aeb5-805ae231b474)
+- Dashboard
+- ![image](https://github.com/Matey-Nikolov/SoftUni-Buditel-Music-Library/assets/80168510/7b6e3b7c-840f-4f26-b436-34cb564e4976)
+  
 
 Now functionality for authenticated users:
 - Dashboard
@@ -62,7 +65,7 @@ When is clone is ready open vusual studio code. The app require to install addit
 Third step
 When instalitation is complete paste this infomation
 ```
- npm install
+ npm start
 ```
  ![image](https://github.com/Matey-Nikolov/SoftUni-Buditel-Music-Library/assets/80168510/d96f3e2e-b857-441f-ab98-e563def1dd1b)
 
@@ -77,13 +80,13 @@ This application have unit tests for validation to currently working application
 For the run tests use this command.
 
 **For the tests run currently the application is required to run in your local machine**
-
+```
+ npm start
+```
+When it start - paste command.
 ```
 npm run test
 ```
 ![image](https://github.com/Matey-Nikolov/SoftUni-Buditel-Music-Library/assets/80168510/af322e25-61d3-47d5-97ad-a8d9721b7076)
 
 ![image](https://github.com/Matey-Nikolov/SoftUni-Buditel-Music-Library/assets/80168510/6477abe2-7923-4376-bb1a-53e4240d99c2)
-
-
- 
